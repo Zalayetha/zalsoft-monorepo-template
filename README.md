@@ -99,7 +99,3 @@ All architectural and product decisions are tracked inside `docs/`:
 
 ---
 
-## 📄 License
-
-ISC License.
-
