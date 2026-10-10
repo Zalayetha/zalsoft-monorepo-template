@@ -37,4 +37,6 @@ todos.json
 
 # Test & coverage
 coverage/
+playwright-report/
+test-results/
 
