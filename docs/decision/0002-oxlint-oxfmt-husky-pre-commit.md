@@ -34,3 +34,4 @@ We adopt **Oxlint**, **Oxfmt**, and **Husky** across the monorepo:
 
 ### Negative
 - Committing code takes a few extra seconds while type checking and building run in pre-commit.
+

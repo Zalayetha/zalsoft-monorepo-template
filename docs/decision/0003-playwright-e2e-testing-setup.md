@@ -33,3 +33,4 @@ We adopt **Playwright** (`@playwright/test`) configured at the monorepo root lev
 
 ### Negative
 - Initial E2E runs download browser binaries (`Chromium`).
+
